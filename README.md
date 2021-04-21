@@ -22,6 +22,10 @@ mkdir build
 cd build
 cmake ..
 make
-./test_images ../test_images/code-1.jpg ../test_images/code-2.jpg ../test_images/code-3.jpg
+./test_images ../models/codev2.onnx ../test_images/code-1.jpg ../test_images/code-2.jpg ../test_images/code-3.jpg
 ```
 
+### demo
+
+![1](imgs/code-1.png)
+![1](imgs/code-2.png)
